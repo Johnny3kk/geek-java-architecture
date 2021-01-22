@@ -25,9 +25,9 @@
     </servlet-mapping>
 
     <welcome-file-list>
-        <welcome-file>users.jsp</welcome-file>
-        <welcome-file>users.html</welcome-file>
-        <welcome-file>users.xhtml</welcome-file>
+        <welcome-file>products.jsp</welcome-file>
+        <welcome-file>products.html</welcome-file>
+        <welcome-file>products.xhtml</welcome-file>
     </welcome-file-list>
     
    <context-param>
